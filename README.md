@@ -1,4 +1,4 @@
 A Terminal Velocity simulator I made in Python using pygame
 
 
-made around 2023
+made some time in 2023
